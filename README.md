@@ -22,11 +22,13 @@
   
     - [2021.08.10](./2주차/2021_08_10_기억메모.md)
     
-    - [2021_08_11](https://thought-process-ing.tistory.com/4)
+    - [2021.08.11](https://thought-process-ing.tistory.com/4)
     
     - [2021.08.12](https://thought-process-ing.tistory.com/5)
     
     - [2021.08.13](https://thought-process-ing.tistory.com/6)
+    
+    - [2021.08.14](https://thought-process-ing.tistory.com/7)
     
       
 
